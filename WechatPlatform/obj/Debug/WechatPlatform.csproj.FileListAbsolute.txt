@@ -1,0 +1,2 @@
+E:\WechatTransForm\WechatTransForm\obj\Debug\WechatPlatform.csprojResolveAssemblyReference.cache
+E:\WechatPlatform\WechatPlatform\obj\Debug\WechatPlatform.csprojResolveAssemblyReference.cache
